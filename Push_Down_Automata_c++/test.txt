@@ -1,0 +1,15 @@
+2
+a 0
+2
+2
+q,a,0 qb
+q,b,b f0
+1
+f
+ab
+ac
+bb
+c
+a
+b
+$
