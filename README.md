@@ -28,3 +28,7 @@ There are some programe I've writter for frieds! Feel free to use and add to the
 
 ## Flappy Bird Reinforcement Learning in Matlab
 > روبات یادگیرنده بازی معروف Flappy Bird در متلب به روش یادگیری تقویتی(Reinforcement Learning)
+
+## Push Down Automata in c++ 
+> درس نظریه زبان و ماشین
+ماشین پشته ای طراحی کنید کنید که با گرفتن گذرها گرامر خود را تشکیل دهد و رشته ای بگیرید و بگویید که ماشین مورد نظر رشته را میپذیرد یا خیر
